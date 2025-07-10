@@ -1,3 +1,5 @@
+package javaclassandobject;
+
 public class MovieDTO {
     private int movieId;
     private String title;

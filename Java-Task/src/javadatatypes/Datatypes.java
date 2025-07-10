@@ -2,9 +2,8 @@ package javadatatypes;
 
 import java.util.Scanner;
 
-enum findDay{
+enum findDay {
     SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY;
-
 }
 public class Datatypes {
     public static void main(String[] args) {

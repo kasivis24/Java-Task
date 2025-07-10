@@ -1,3 +1,5 @@
+package javaclassandobject;
+
 public class EmployeeDTO {
     private int employeeId;
     private String firstName;

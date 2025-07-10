@@ -1,3 +1,7 @@
+package javaclassandobject;
+
+import javaclassandobject.Player;
+
 import java.util.List;
 
 public class Team{

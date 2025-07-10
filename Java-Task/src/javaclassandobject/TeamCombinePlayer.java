@@ -1,3 +1,8 @@
+package javaclassandobject;
+
+import javaclassandobject.Player;
+import javaclassandobject.Team;
+
 import java.util.Arrays;
 
 public class TeamCombinePlayer {

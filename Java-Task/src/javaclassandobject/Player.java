@@ -1,3 +1,5 @@
+package javaclassandobject;
+
 public class Player{
     private String name;
     private String position;
